@@ -158,3 +158,4 @@ contract TestGasPriceFeesHook is Test, Deployers {
         assertGt(outputFromBaseFeeSwap, outputFromIncreasedFeeSwap);
     }
 }
+    
